@@ -26,7 +26,7 @@ h2 {
     position: relative;
     float: right;
     margin: 0px 0px 10px 0px;
-    width: 150px;
+    width: 30%;
     text-align: center;
     border-width: 0px 0px 1px 1px;
     border-style: solid;
@@ -193,6 +193,10 @@ p {
 
     h1 {
         margin-bottom: 20px;
+    }
+
+    #s3 h2 {
+      width: 15%;
     }
 }
 
