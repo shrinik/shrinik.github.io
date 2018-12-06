@@ -32,9 +32,6 @@ body {
     margin-top: -40px;
 }
 
-#nav-list {
-    text-align: center;
-}
 
 #nav-list li:nth-child(1),
 #nav-list li:nth-child(2) {
